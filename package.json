@@ -1,6 +1,6 @@
 {
   "name": "sourcerer-hyperterm",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Sourcerer theme for HyperTerm based on Xero/Sourcerer https://github.com/xero/sourcerer",
   "main": "index.js",
   "scripts": {
