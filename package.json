@@ -1,0 +1,22 @@
+{
+  "name": "sourcerer-hyperterm",
+  "version": "1.0.0",
+  "description": "Sourcerer theme for HyperTerm based on Xero/Sourcerer https://github.com/xero/sourcerer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/seagoj/sourcerer-hyperterm.git"
+  },
+  "keywords": [
+    "hyperterm"
+  ],
+  "author": "Jeremy Seago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/seagoj/sourcerer-hyperterm/issues"
+  },
+  "homepage": "https://github.com/seagoj/sourcerer-hyperterm#readme"
+}
