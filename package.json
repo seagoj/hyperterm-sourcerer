@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/seagoj/sourcerer-hyperterm.git"
+    "url": "git://github.com/seagoj/hyperterm-sourcerer.git"
   },
   "keywords": [
     "hyperterm"
@@ -16,7 +16,7 @@
   "author": "Jeremy Seago",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/seagoj/sourcerer-hyperterm/issues"
+    "url": "https://github.com/seagoj/hyperterm-sourcerer/issues"
   },
-  "homepage": "https://github.com/seagoj/sourcerer-hyperterm#readme"
+  "homepage": "https://github.com/seagoj/hyperterm-sourcerer#readme"
 }
